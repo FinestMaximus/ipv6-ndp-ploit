@@ -292,4 +292,4 @@ Licensed under GPLv3 (see LICENSE !le)
 
 **[9]** M. Thomas W. Stevens. Advanced sockets api for ipv6.IETF, February 1998.
 
-**[10]** [http://www.thc.org.THC-IPV6-ATTACK-TOOLKIT.](http://www.thc.org.THC-IPV6-ATTACK-TOOLKIT.) [http://www.thc.org,](http://www.thc.org,) 2012.
+**[10]** [http://www.thc.org.THC-IPV6-ATTACK-TOOLKIT](http://www.thc.org.THC-IPV6-ATTACK-TOOLKIT.) [http://www.thc.org](http://www.thc.org,) 2012.
